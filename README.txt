@@ -2,7 +2,7 @@ OMG NTRIP RTCM Logger & Bridge v12
 =================================
 
 RUN (Windows)
-1. Download .exe located is dist directory.
+1. Download .exe located in dist directory.
 2. Run executable from any directory on Windows PC.
 
 BUILD (Windows)
