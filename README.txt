@@ -1,4 +1,4 @@
-OMG NTRIP RTCM Logger & Bridge v11
+OMG NTRIP RTCM Logger & Bridge v12
 =================================
 
 BUILD (Windows)
@@ -7,7 +7,7 @@ BUILD (Windows)
 3. Copy dist\OMG_NTRIP_RTCM_Logger_Bridge.exe to the destination PC.
    Python is NOT required on the destination PC.
 
-CHANGES IN v11
+CHANGES IN v12
 - Tabs: Dashboard, Caster, Position, Outputs, Settings.
 - Persistent Start/Stop/status controls and live event console below the tabs.
 - Live RTCM3 frame validation with CRC-24Q, valid/bad counts and message types.
